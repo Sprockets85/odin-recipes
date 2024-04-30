@@ -1,0 +1,21 @@
+/* style.css */
+*
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1
+{
+    color: blue;
+}
+
+#foodpic
+{
+    height: auto;
+    width: 300px;
+}
+
+.ingredients
+{
+    color: green;
+}
